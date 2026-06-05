@@ -4,7 +4,7 @@
 I am currently a second-year Computer Engineering student at Istanbul Kültür University **(GPA: [2.40]/4.00)**. I am actively building a strong theoretical foundation in computer science, advanced engineering mathematics, and low-level system architectures. My ultimate career goal is to bridge this analytical background with practical applications in **Data Science** and **Artificial Intelligence**.
 
 ### 📌 Academic & Professional Focus
-* **Education:** B.Sc. in Computer Engineering, Istanbul Kültür University (Expected 2028) | **GPA: [X.XX]/4.00**
+* **Education:** B.Sc. in Computer Engineering, Istanbul Kültür University (Expected 2028) | **GPA: [2.40]/4.00**
 * **Data Science & AI:** Deeply interested in machine learning algorithms and data processing. Currently seeking a Summer 2026 internship to apply my theoretical knowledge to real-world problems.
 * **Backend Development:** Growing interest in building scalable server-side architectures. I am eager to design robust backend systems that can effectively power web platforms and serve data-driven applications.
 * **System Architecture & Advanced Math:** Passionate about understanding how things work under the hood. Focusing on von Neumann architecture, Digital Signal Processing (DSP), and Linear Algebra.
